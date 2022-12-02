@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebuiliumeter", "Ebuiliumeter\Ebuiliumeter.csproj", "{A0FC5C61-3F6E-4D33-B386-BEB3825F4998}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ebuliumeter Installer", "Ebuliumeter Installer\Ebuliumeter Installer.vdproj", "{03B64737-3051-4EE6-B929-8BB0D6AE7554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FC5C61-3F6E-4D33-B386-BEB3825F4998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FC5C61-3F6E-4D33-B386-BEB3825F4998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FC5C61-3F6E-4D33-B386-BEB3825F4998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FC5C61-3F6E-4D33-B386-BEB3825F4998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B64737-3051-4EE6-B929-8BB0D6AE7554}.Debug|Any CPU.ActiveCfg = Debug
+		{03B64737-3051-4EE6-B929-8BB0D6AE7554}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DB0101-6CAC-4690-BF33-A7A6D64A97B2}
+	EndGlobalSection
+EndGlobal
